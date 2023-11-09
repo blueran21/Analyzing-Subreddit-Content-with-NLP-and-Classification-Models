@@ -1,7 +1,7 @@
 #  Data Science vs. Software Engineering: Analyzing Subreddit Content with NLP and Classification Models
 
 
-## Content:
+## Content
 - [Problem Statement](#Problem-Statement)
 - [Datasets](#Datasets-and-Data-Cleaning)
 - [NLP](#NLP)
